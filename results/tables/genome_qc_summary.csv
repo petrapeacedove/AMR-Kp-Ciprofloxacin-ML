@@ -1,0 +1,9 @@
+category,count,description
+Initial phenotype-linked genomes,3727,Before genome QC
+QC-passed genomes,3662,Retained for final ML dataset
+QC failures,65,"Deprecated, poor quality, completeness <95%, or contamination >5%"
+QC-passed — Good quality,3662,All retained genomes
+QC-passed — WGS status,3574,Genome status
+QC-passed — Complete status,88,Genome status
+QC-passed — Resistant,2497,Final phenotype distribution
+QC-passed — Susceptible,1165,Final phenotype distribution
